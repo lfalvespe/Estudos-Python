@@ -1,7 +1,9 @@
+
+ <img src="python-icon.png" width="64px" height="64px" align="right">
+
 # Exercicios-Python
- 
- <h2> Exercícios básicos de Python </h2>
- 
+
+
  <ol>
  <li><a href="https://github.com/lfalvespe/Exercicios-Python/blob/main/Progressao-Aritmetica.py" target="_blank">Progressão Aritmética</a>
  - Mostra os 10 primeiros termos de uma PA.

@@ -5,9 +5,11 @@
 
 
  <ol>
- <li><a href="https://github.com/lfalvespe/Exercicios-Python/blob/main/Progressao-Aritmetica.py" target="_blank">Progressão Aritmética</a>
- - Mostra os 10 primeiros termos de uma PA.
+ 
+  <li><a href="https://github.com/lfalvespe/Exercicios-Python/blob/main/lambda.py" target="_blank">Funções Lambda</a>
+ - funções lambda.
  </li>
+ 
  
  <li><a href="https://github.com/lfalvespe/Exercicios-Python/blob/main/AnaliseMatriz.py" target="_blank">Análisando uma Matriz</a>
  - Lê os valores de uma matriz e mostra alguns cálculos com os termos.

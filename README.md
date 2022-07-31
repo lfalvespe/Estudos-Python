@@ -11,8 +11,8 @@
  </li>
  
  
- <li><a href="https://github.com/lfalvespe/Exercicios-Python/blob/main/Cadastro Simples" target="_blank">Cadastro Simples/a>
- - Cadastro simples gravado em arquivo de texto com tratamento de erros.
+ <li><a href="https://github.com/lfalvespe/Exercicios-Python/blob/main/Cadastro Simples" target="_blank">Cadastro Simples</a>
+ - Cadastro simples gravando em arquivo de texto com tratamento de erros.
  </li>
  
 </ol>

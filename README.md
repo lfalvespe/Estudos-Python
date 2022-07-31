@@ -1,7 +1,7 @@
 
  <img src="python-icon.png" width="64px" height="64px" align="right">
 
-# Exercicios-Python
+# Estudos em Python
 
 
  <ol>

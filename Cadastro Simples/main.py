@@ -1,6 +1,5 @@
 from uteis.dados import *
 from uteis.arquivo import *
-
 from time import sleep
 
 arq = 'pessoas.txt'
@@ -9,8 +8,8 @@ if not arquivoExiste(arq):
   criarArquivo(arq)
 
 while True:
-  resposta = menu(['Mostrar lista de pessoas',
-     'Cadastrar nova pessoa',
+  resposta = menu(['Mostrar lista de Usuários',
+     'Cadastrar novo Usuário',
      'Sair'])
   
   if resposta == 1:
